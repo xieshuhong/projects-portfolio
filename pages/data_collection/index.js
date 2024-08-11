@@ -8,7 +8,7 @@ const DataCollectionPage = () => (
         </section>
         <section className='m-8 text-xl font-bold'>
             Technology stacks: 
-                            <p>ASP.NET Web API, .NET Core, RESTful APIs, MySQL, Next.js, Ant Design UI, Tailwind CSS, Docker, and Azure</p>
+                            <p>ASP.NET Web API, .NET Core, RESTful APIs, MySQL, Next.js, Ant Design UI, Tailwind CSS, Docker, and Azure platform</p>
         </section>
         <div>
             <img src="/data_collection_1.png" alt="data collection 1" height={"100%"} />
