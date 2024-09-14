@@ -8,7 +8,7 @@ const iotPage = () => (
         <section className='m-8 text-xl font-bold'>
             Technology stacks: 
                             <p>Frontend: Angular 11, Ant design UI, Apache Echarts</p>
-                            <p>Backend: Java Spring Boot, MySQL, Redis, Ngnix, Docker, Alibaba cloud platform</p>
+                            <p>Backend: Java Spring Boot, MySQL, Redis, Ngnix, Docker, AWS cloud platform</p>
         </section>
         <div>
             <img src="/iot_1.png" alt="iot 1" height={"100%"} />
