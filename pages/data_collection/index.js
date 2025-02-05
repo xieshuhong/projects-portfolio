@@ -6,10 +6,10 @@ const DataCollectionPage = () => (
                                                    enhance service quality by collecting and analyzing data on technicians' arrival and departure times, 
                                                    job duration, service quality ratings, steps taken, and assign tasks to technicians thereby addressing the company's current operational inefficiencies and data insight gaps..
         </section>
-        <section className='m-8 text-xl font-bold'>
+        {/* <section className='m-8 text-xl font-bold'>
             Technology stacks: 
                             <p>ASP.NET Web API, .NET Core, RESTful APIs, MySQL, Next.js, Ant Design UI, Tailwind CSS, Docker, and Azure platform</p>
-        </section>
+        </section> */}
         <div>
             <img src="/data_collection_1.png" alt="data collection 1" height={"100%"} />
         </div>
